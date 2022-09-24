@@ -26,4 +26,4 @@ A Java Swing , and Java AWT based text editor  with operations like:
 ![image](https://user-images.githubusercontent.com/80635048/191079033-edf54e15-1c94-446f-83a7-d5f9bf96fb7b.png)
 
 #Changing font color 
-![Uploading image.png…]()
+

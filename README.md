@@ -19,7 +19,12 @@ A Java Swing , and Java AWT based text editor  with operations like:
 
 # Writing 
 
+#Closing file 
+![image](https://user-images.githubusercontent.com/80635048/196244755-0c04d731-5743-4b21-9f49-31ad435c7b26.png)
+
+
 # opening file 
+![image](https://user-images.githubusercontent.com/80635048/196245014-fab2b8ff-e52d-46c9-9e97-cdc0051b1288.png)
 
 
 # Saving a file 
@@ -36,5 +41,6 @@ A Java Swing , and Java AWT based text editor  with operations like:
 ![image](https://user-images.githubusercontent.com/80635048/196244522-9e388890-dab6-4db3-8521-c479ea829cf2.png)
 
 
+I cant put more stuff , I am tired
 
 
